@@ -10,8 +10,4 @@ To get started, click on ["Who are we?"](/introduction/us.md) to learn more abou
 
 ## *Viewing this on GitHub?*
 
-This is best viewed using GitHub Pages [as a webpage](https://videlais.github.io/crash-course-on-ink-workshop-narrascope2022/).
-
-## Citation
-
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.6940724.svg)](https://doi.org/10.5281/zenodo.6940724)
+This is best viewed using GitHub Pages [as a webpage](https://KentonTaylorHoward.github.io/Crash-Course-On-Ink-VICFA-2022/).
