@@ -3,7 +3,7 @@
 ## Playable Example
 
 <iframe
-  src="/examples/generator/"
+  src="https://kentontaylorhoward.github.io/Crash-Course-On-Ink-VICFA-2022/#/examples/generator/"
   style="width:100%; height:600px;"
 ></iframe>
 
