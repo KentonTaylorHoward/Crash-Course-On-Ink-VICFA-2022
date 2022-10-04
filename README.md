@@ -1,4 +1,6 @@
-# Creating Fantastic Interactive Fiction with Inky (IAFA Online Conference 2022)
+# Creating Fantastic Interactive Fiction with Inky
+
+## IAFA Online Conference 2022
 
 Welcome to a workshop on the [narrative scripting language ink](https://github.com/inkle/ink)! This is a *crash course*, which means we will try, in less than an hour, to help you learn the basics of the language and how to use it to author projects.
 
