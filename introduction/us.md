@@ -1,6 +1,6 @@
 # *Who are we?*
 
-**Dr. Kenton Taylor Howard** is a lecturer in the University of Central Florida’s Games and Interactive Media program. He completed his PhD in UCF's Texts and Technology program in 2021. His dissertation focused on the notion of "critical modding," and he built an ink game prototype, *Life in the Megapocalypse*, as part of his dissertation project.
+**Dr. Kenton Taylor Howard** (he/him/his) is a lecturer in the University of Central Florida’s Games and Interactive Media program. He completed his PhD in UCF's Texts and Technology program in 2021. His dissertation focused on the notion of "critical modding," and he built an ink game prototype, *Life in the Megapocalypse*, as part of his dissertation project.  This is his 10th year presenting at ICFA.
 
 Twitter: [@kenton_howard](https://twitter.com/kenton_howard)
 
