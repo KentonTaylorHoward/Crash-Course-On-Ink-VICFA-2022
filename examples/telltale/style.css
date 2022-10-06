@@ -1,0 +1,52 @@
+body {
+    font-family: sans-serif;
+    font-weight: lighter;
+	background-color:	#000000;
+}
+
+h1 {
+    text-align: center;
+    font-weight: lighter;
+	color: #FFFFFF;
+	font-size: 1.5em;
+}
+
+.container {
+    display: block;
+    max-width: 600px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+p, a {
+    color: #FFFFFF;
+    line-height: 1.7em;
+    font-size: 13pt;
+	text-decoration: none;
+}
+
+p {
+    opacity: 0.0;
+    transition: opacity 1.0s;
+}
+a{
+	color: #ff0000;
+}
+
+p.show {
+    opacity: 1.0;
+}
+
+p.choice {
+    text-align: center;
+}
+
+a:hover {
+    color: #FFFFFF;
+}
+
+img {
+	float: right;
+	width: 25%;
+	height: 50%;
+}
