@@ -1,3 +1,6 @@
+Playable Example
+<iframe src="https://kentontaylorhoward.github.io/Crash-Course-On-Ink-VICFA-2022/examples/generator/RetellingTheTellTaleHeart.html" style="width:100%; height:600px;" ></iframe>
+
 # Example: *Tell-tale Heart*
 
 ```ink
